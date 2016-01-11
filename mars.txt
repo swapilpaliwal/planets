@@ -1,1 +1,3 @@
-trial file
+trial file.
+
+This is a new line that i added.
