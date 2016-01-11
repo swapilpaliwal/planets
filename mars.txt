@@ -3,3 +3,5 @@ trial file.
 This is a new line that i added.
 
 trying another line.
+
+new line.
