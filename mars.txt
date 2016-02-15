@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my favorite color. RED!
 Smells bad though. Making a few more changes. changes for crlf.
 smaller than earth. nevermind
+=======
+trial file.
+
+This is a new line that i added.
+>>>>>>> f0026705d0a6d06475142ed024df6775e232fc1a
